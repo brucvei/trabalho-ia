@@ -2,7 +2,7 @@
 
 **Universidade Federal de Santa Maria — Disciplina de Inteligência Artificial**
 **Trabalho de Aprendizado Supervisionado**
-**Integrantes:** Bruna Caetano
+**Integrantes:** Bruna Caetano, Inácio Boemo e Lucas Aued
 
 ---
 

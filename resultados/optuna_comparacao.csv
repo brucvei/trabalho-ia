@@ -1,3 +1,3 @@
 modelo,limiar,accuracy,precision,recall,f1,rocAuc,aucValidacao,epocas,tempo_s
-MLP base,0.28,0.7893,0.3657,0.5341,0.4341,0.7746,0.7581,26,0.7653
-MLP otimizada (Optuna),0.25,0.7954,0.3675,0.488,0.4193,0.772,0.766,24,1.307
+MLP base,0.28,0.7893,0.3657,0.5341,0.4341,0.7746,0.7581,26,0.9338
+MLP otimizada (Optuna),0.25,0.7954,0.3675,0.488,0.4193,0.772,0.766,24,1.2672
