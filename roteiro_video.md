@@ -35,7 +35,7 @@
 
 ## Bloco 2 — Dados e análise exploratória (1:15 – 2:45)
 
-**Na tela:** tabela-resumo dos dados e depois as figuras `_figuras/fig03_mapa.png`, `_figuras/fig04_temporal.png` e `_figuras/fig02_classes_especies.png`.
+**Na tela:** tabela-resumo dos dados e depois as figuras `figuras/fig03_mapa.png`, `figuras/fig04_temporal.png` e `figuras/fig02_classes_especies.png`.
 
 **Fala:**
 
@@ -73,7 +73,7 @@
 
 ## Bloco 4 — Classificação (4:30 – 6:15)
 
-**Na tela:** a tabela de resultados do binário, depois `_figuras/fig07_curvas_mlp_binario.png`, `_figuras/fig10_importancia_binario.png` e, por fim, a tabela do multiclasse.
+**Na tela:** a tabela de resultados do binário, depois `figuras/fig07_curvas_mlp_binario.png`, `figuras/fig10_importancia_binario.png` e, por fim, a tabela do multiclasse.
 
 **Fala:**
 
@@ -95,7 +95,7 @@
 
 ## Bloco 5 — Regressão (6:15 – 7:00)
 
-**Na tela:** a tabela da regressão e `_figuras/fig14_regressao_real_predito.png`.
+**Na tela:** a tabela da regressão e `figuras/fig14_regressao_real_predito.png`.
 
 **Fala:**
 
@@ -109,7 +109,7 @@
 
 ## Bloco 6 — Optuna e regularização (7:00 – 8:15)
 
-**Na tela:** `_figuras/fig15_optuna.png`, a tabela base × otimizada e depois `_figuras/fig17_regularizacao.png`.
+**Na tela:** `figuras/fig15_optuna.png`, a tabela base × otimizada e depois `figuras/fig17_regularizacao.png`.
 
 **Fala:**
 
@@ -123,7 +123,7 @@
 
 ## Bloco 7 — Hotspots e conclusões (8:15 – 9:30)
 
-**Na tela:** `_figuras/fig18_hotspots.png` e depois um slide de conclusões em tópicos.
+**Na tela:** `figuras/fig18_hotspots.png` e depois um slide de conclusões em tópicos.
 
 **Fala:**
 
@@ -144,4 +144,4 @@
 
 - Ensaiem com cronômetro. Se passar de 9:45, cortem primeiro as comparações de divisões do multiclasse (Bloco 4) e os detalhes do espaço de busca do Optuna (Bloco 6).
 - Deixem cada figura na tela pelo menos 5 segundos e destaquem com o cursor o ponto de que estão falando, por exemplo a linha do early stopping nas curvas.
-- Os números citados vêm de `relatorio.md` e `_resultados/`. Se rodarem `trabalho.py` de novo, confiram se não mudaram.
+- Os números citados vêm de `relatorio.md` e `resultados/`. Se rodarem `trabalho.py` de novo, confiram se não mudaram.
