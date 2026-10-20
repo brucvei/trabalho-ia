@@ -1,0 +1,7 @@
+divisao,nTreino,nTeste,modelo,accuracy,precisionMacro,recallMacro,f1Macro
+Aleatória,2651,884,MLP,0.4367,0.3364,0.3968,0.3219
+Aleatória,2651,884,Random Forest,0.5837,0.4072,0.462,0.4247
+Espacial (blocos 3 km),2872,838,MLP,0.3628,0.356,0.402,0.33
+Espacial (blocos 3 km),2872,838,Random Forest,0.5394,0.3998,0.412,0.4045
+Temporal (teste abr/2014-mar/2015),2835,723,MLP,0.3582,0.3583,0.4434,0.3035
+Temporal (teste abr/2014-mar/2015),2835,723,Random Forest,0.5934,0.3413,0.3512,0.3429

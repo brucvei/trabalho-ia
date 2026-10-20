@@ -1,0 +1,6 @@
+modelo,MAE,MSE,RMSE,R2,R2_celula_ano
+MLP,0.3374,0.2858,0.5346,0.0607,0.3213
+Regressão Linear,0.3244,0.2694,0.519,0.1149,0.5444
+Random Forest,0.3227,0.2787,0.528,0.0841,0.3761
+Gradient Boosting (Poisson),0.3125,0.2856,0.5345,0.0614,0.3849
+Ingênuo (média histórica),0.3266,0.2952,0.5434,0.0298,0.2385
